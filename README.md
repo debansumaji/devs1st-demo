@@ -1,3 +1,4 @@
 # devs1st-demo
-this is my first git repository
-author-debansu maji
+this is my first git repository.
+<br>
+Author-debansu maji
